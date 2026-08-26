@@ -1122,7 +1122,7 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="97"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Thème</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="110"/>
@@ -1137,12 +1137,12 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="334"/>
         <source>Font Size Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustement de la taille de la police</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="365"/>
         <source>Adjust font size relative to default (0 = default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuster la taille de la police par défaut (0 = par défaut)</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="426"/>

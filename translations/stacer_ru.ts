@@ -611,7 +611,7 @@
     <message>
         <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="39"/>
         <source>Full Qualified</source>
-        <translation>Полное</translation>
+        <translation>Полное имя</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Helpers/host_manage.cpp" line="137"/>
@@ -1122,7 +1122,7 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="97"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="110"/>
@@ -1137,12 +1137,12 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="334"/>
         <source>Font Size Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Регулировка размера шрифта</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="365"/>
         <source>Adjust font size relative to default (0 = default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить размер шрифта относительно стандартного (0 = стандартный)</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="426"/>
